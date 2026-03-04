@@ -1,0 +1,12 @@
+:root {
+  --accent:        #10B981;   /* emerald */
+  --accent-dark:   #059669;   /* deep emerald */
+  --accent-light:  #FCD34D;   /* golden */
+  --bg:            #F0FDF4;   /* mint cream */
+  --bg-alt:        #DCFCE7;   /* light mint */
+  --text:          #1A2E22;   /* forest dark */
+  --text-muted:    #5F8A6E;   /* sage */
+  --border:        #A7D7B8;   /* soft green */
+  --highlight-text: #FFFFFF;
+  --body-bg:       #C6F0D4;   /* pastel mint */
+}

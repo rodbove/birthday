@@ -1,0 +1,13 @@
+:root {
+  --accent:        #FFD600;   /* bright yellow */
+  --accent-dark:   #E6C200;   /* deeper gold */
+  --accent-light:  #FFF176;   /* pale lemon */
+  --bg:            #0D1B2A;   /* deep navy */
+  --bg-alt:        #1B2838;   /* slate blue */
+  --text:          #EDF2F4;   /* ice white */
+  --text-muted:    #8EAFC0;   /* steel blue */
+  --border:        #2A3F54;   /* muted navy */
+  --highlight-text: #0D1B2A;
+  --banner-text:   #0D1B2A;   /* dark on yellow banner */
+  --body-bg:       #081420;   /* darkest blue */
+}

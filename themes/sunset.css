@@ -1,0 +1,12 @@
+:root {
+  --accent:        #FF6B35;   /* burnt orange */
+  --accent-dark:   #D4531E;   /* deep ember */
+  --accent-light:  #FFB347;   /* warm peach */
+  --bg:            #1A1020;   /* deep twilight */
+  --bg-alt:        #241530;   /* purple night */
+  --text:          #F5E6D3;   /* warm cream */
+  --text-muted:    #A08B9A;   /* dusty mauve */
+  --border:        #3D2A4A;   /* muted plum */
+  --highlight-text: #FFFFFF;
+  --body-bg:       #120A18;   /* dark purple */
+}

@@ -1,0 +1,12 @@
+:root {
+  --accent:        #7C3AED;   /* vivid purple */
+  --accent-dark:   #5B21B6;   /* deep violet */
+  --accent-light:  #F9A8D4;   /* soft pink */
+  --bg:            #FAF5FF;   /* ghost white */
+  --bg-alt:        #F3E8FF;   /* light lavender */
+  --text:          #1E1B2E;   /* dark plum */
+  --text-muted:    #7C7291;   /* muted purple */
+  --border:        #D8BFE6;   /* lilac border */
+  --highlight-text: #FFFFFF;
+  --body-bg:       #EDE4F5;   /* pale lavender */
+}
