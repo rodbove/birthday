@@ -1,5 +1,4 @@
 (() => {
-  const isLocal = ['localhost', '127.0.0.1', ''].includes(location.hostname);
   const SCALE = 3;
   const LIB_URL = 'https://cdn.jsdelivr.net/npm/html-to-image@1.11.11/dist/html-to-image.js';
 
@@ -129,7 +128,7 @@
   const dlBtn = document.createElement('button');
   dlBtn.textContent = 'BAIXAR';
   Object.assign(dlBtn.style, btnStyle);
-  if (isLocal) btnRow.appendChild(dlBtn);
+  btnRow.appendChild(dlBtn);
 
   dlBtn.addEventListener('click', async () => {
     dlBtn.textContent = 'GERANDO...';
