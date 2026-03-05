@@ -1,0 +1,12 @@
+:root {
+  --accent:        #00509d;   /* bold blue */
+  --accent-dark:   #003f88;   /* darker blue */
+  --accent-light:  #ffd500;   /* bright yellow */
+  --bg:            #fffdf5;   /* warm white */
+  --bg-alt:        #f5f0e0;   /* light sand */
+  --text:          #00296b;   /* navy */
+  --text-muted:    #4a6d8c;   /* steel blue */
+  --border:        #b8cce0;   /* soft blue */
+  --highlight-text: #FFFFFF;
+  --body-bg:       #d6e4f0;   /* powder blue */
+}

@@ -1,0 +1,12 @@
+:root {
+  --accent:        #219ebc;   /* teal blue */
+  --accent-dark:   #1a7f97;   /* deeper teal */
+  --accent-light:  #ffb703;   /* warm amber */
+  --bg:            #f0f7fa;   /* ice blue tint */
+  --bg-alt:        #deeef4;   /* soft sky */
+  --text:          #023047;   /* deep navy */
+  --text-muted:    #4a7a8c;   /* muted ocean */
+  --border:        #b8d8e4;   /* pale blue */
+  --highlight-text: #FFFFFF;
+  --body-bg:       #c8e2ed;   /* light coastal */
+}

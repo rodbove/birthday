@@ -5,15 +5,15 @@
 
   const THEMES = [
     { name: 'Original',  file: 'themes/original.css' },
-    { name: 'Summer',    file: 'themes/summer.css' },
     { name: 'Lavender',  file: 'themes/lavender.css' },
-    { name: 'Neon',      file: 'themes/neon.css' },
-    { name: 'Military',  file: 'themes/military.css' },
     { name: 'Sunset',    file: 'themes/sunset.css' },
     { name: 'Mint',      file: 'themes/mint.css' },
-    { name: 'Mono',      file: 'themes/mono.css' },
-    { name: 'Royal',     file: 'themes/royal.css' },
     { name: 'Sunny',     file: 'themes/sunny.css' },
+    { name: 'Ocean',     file: 'themes/ocean.css' },
+    { name: 'Coastal',   file: 'themes/coastal.css' },
+    { name: 'Deep Sea',  file: 'themes/deep-sea.css' },
+    { name: 'Tropics',   file: 'themes/tropics.css' },
+    { name: 'Horizon',   file: 'themes/horizon.css' },
   ];
 
   // ── Toolbar container ──

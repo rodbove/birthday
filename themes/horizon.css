@@ -1,0 +1,12 @@
+:root {
+  --accent:        #8ecae6;   /* light sky blue */
+  --accent-dark:   #6db5d4;   /* muted sky */
+  --accent-light:  #fb8500;   /* sunset orange */
+  --bg:            #023047;   /* deep navy */
+  --bg-alt:        #0a3d56;   /* dark teal */
+  --text:          #edf4f8;   /* pale blue-white */
+  --text-muted:    #8bb8cc;   /* soft blue */
+  --border:        #1a5068;   /* teal border */
+  --highlight-text: #023047;
+  --body-bg:       #011e30;   /* darkest navy */
+}
